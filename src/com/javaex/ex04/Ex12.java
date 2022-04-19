@@ -34,6 +34,7 @@ public class Ex12 {
 		sc.close();
 		
 		System.out.println("깃허브 테스트");
+		System.out.println("깃허브 테스트2");
 	}
 
 }
